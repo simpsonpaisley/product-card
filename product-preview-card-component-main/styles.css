@@ -115,20 +115,21 @@ picture,
 	margin-top: 0.25rem;
 }
 
-.price {
-	font-family: 'Fraunces', serif;
-	font-size: 2rem;
-	color: #3d8168;
-	margin-right: 0.5rem;
-	margin-top: 0.25rem;
-}
-
-.product-price p {
+.rrp {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 500;
 	color: #6c6c6c;
 	text-decoration: line-through;
 	margin-top: -0.5rem;
+}
+
+.price {
+	font-family: 'Fraunces', serif;
+	font-weight: 700;
+	font-size: 2rem;
+	color: #3d8168;
+	margin-right: 0.5rem;
+	margin-top: 0.25rem;
 }
 
 button {
